@@ -1,0 +1,26 @@
+.empresa, .area {
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+  background-color: yellow;
+
+}
+
+
+.celulares {
+  background-color: aqua;
+  height: 100px;
+  width: 300px;
+}
+
+.impressoras {
+  background-color: brown;
+}
+
+.computadores, .roteadores {
+    display: inline-block;
+  background-color: green;
+  height: 100px;
+  width: 200px;
+}
+
